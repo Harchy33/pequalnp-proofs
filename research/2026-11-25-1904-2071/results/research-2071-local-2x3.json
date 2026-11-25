@@ -1,0 +1,385 @@
+{
+  "nP": 2,
+  "nL": 3,
+  "method": "Finite diagnostic enumeration, not a Lean certificate or a proof of the plane task. Pairs are commutative; semantic duplicates and unused gates are pruned. No exhaustive claim outside these input and gate bounds.",
+  "nodes": 27778145,
+  "leafCount": 27160960,
+  "dirtyLeast": 0,
+  "doubleLeast": 0,
+  "dirtyDoubleLeast": 0,
+  "targets": [
+    {
+      "graph": 1,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 2,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 3,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 4,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 5,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 6,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 7,
+      "minimum": 3,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 8,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 9,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 10,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 11,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 12,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 13,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 14,
+      "minimum": 4,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 15,
+      "minimum": 5,
+      "leastCircuits": 40,
+      "topStuckLeast": 18,
+      "badLeast": 0
+    },
+    {
+      "graph": 16,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 17,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 18,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 19,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 20,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 21,
+      "minimum": 4,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 22,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 23,
+      "minimum": 5,
+      "leastCircuits": 40,
+      "topStuckLeast": 18,
+      "badLeast": 0
+    },
+    {
+      "graph": 24,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 25,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 26,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 28,
+      "minimum": 4,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 29,
+      "minimum": 5,
+      "leastCircuits": 6,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 30,
+      "minimum": 5,
+      "leastCircuits": 6,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 32,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 33,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 34,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 35,
+      "minimum": 4,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 36,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 37,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 38,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 39,
+      "minimum": 5,
+      "leastCircuits": 40,
+      "topStuckLeast": 18,
+      "badLeast": 0
+    },
+    {
+      "graph": 40,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 41,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 42,
+      "minimum": 4,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 43,
+      "minimum": 5,
+      "leastCircuits": 6,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 44,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 46,
+      "minimum": 5,
+      "leastCircuits": 6,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 48,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 49,
+      "minimum": 4,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 50,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 51,
+      "minimum": 5,
+      "leastCircuits": 6,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 52,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 53,
+      "minimum": 5,
+      "leastCircuits": 6,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 56,
+      "minimum": 3,
+      "leastCircuits": 3,
+      "topStuckLeast": 3,
+      "badLeast": 0
+    },
+    {
+      "graph": 57,
+      "minimum": 5,
+      "leastCircuits": 40,
+      "topStuckLeast": 18,
+      "badLeast": 0
+    },
+    {
+      "graph": 58,
+      "minimum": 5,
+      "leastCircuits": 40,
+      "topStuckLeast": 18,
+      "badLeast": 0
+    },
+    {
+      "graph": 60,
+      "minimum": 5,
+      "leastCircuits": 40,
+      "topStuckLeast": 18,
+      "badLeast": 0
+    }
+  ],
+  "witnesses": [],
+  "seconds": 1.212
+}

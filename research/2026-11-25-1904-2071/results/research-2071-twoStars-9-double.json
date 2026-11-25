@@ -1,0 +1,47 @@
+{
+  "mode": "twoStars",
+  "size": 9,
+  "requireDouble": true,
+  "edges": [
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      1,
+      8
+    ]
+  ],
+  "minCover": 2,
+  "starUpper": 9,
+  "conflictLimit": 1000000,
+  "exit": 0,
+  "signal": null,
+  "seconds": 197.263,
+  "verdict": "UNKNOWN",
+  "exhausted": false
+}

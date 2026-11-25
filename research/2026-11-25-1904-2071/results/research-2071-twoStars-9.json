@@ -1,0 +1,101 @@
+{
+  "mode": "twoStars",
+  "size": 9,
+  "requireDouble": false,
+  "edges": [
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      1,
+      8
+    ]
+  ],
+  "minCover": 2,
+  "starUpper": 9,
+  "conflictLimit": 1000000,
+  "exit": 10,
+  "signal": null,
+  "seconds": 51.539,
+  "verdict": "SAT",
+  "exhausted": false,
+  "gates": [
+    {
+      "op": "or",
+      "a": 7,
+      "b": 8
+    },
+    {
+      "op": "or",
+      "a": 2,
+      "b": 9
+    },
+    {
+      "op": "or",
+      "a": 6,
+      "b": 10
+    },
+    {
+      "op": "or",
+      "a": 4,
+      "b": 5
+    },
+    {
+      "op": "or",
+      "a": 2,
+      "b": 3
+    },
+    {
+      "op": "or",
+      "a": 12,
+      "b": 13
+    },
+    {
+      "op": "and",
+      "a": 1,
+      "b": 11
+    },
+    {
+      "op": "and",
+      "a": 0,
+      "b": 14
+    },
+    {
+      "op": "or",
+      "a": 15,
+      "b": 16
+    }
+  ],
+  "output": 17,
+  "allAndClean": true,
+  "traces": [
+    true,
+    true
+  ],
+  "verifiedRows": 512
+}

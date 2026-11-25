@@ -1,0 +1,112 @@
+{
+  "nP": 2,
+  "nL": 2,
+  "method": "Finite diagnostic enumeration, not a Lean certificate or a proof of the plane task. Pairs are commutative; semantic duplicates and unused gates are pruned. No exhaustive claim outside these input and gate bounds.",
+  "nodes": 2373545,
+  "leafCount": 2287776,
+  "dirtyLeast": 0,
+  "doubleLeast": 0,
+  "dirtyDoubleLeast": 0,
+  "targets": [
+    {
+      "graph": 1,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 2,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 3,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 4,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 5,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 6,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 7,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 8,
+      "minimum": 1,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 9,
+      "minimum": 3,
+      "leastCircuits": 2,
+      "topStuckLeast": 2,
+      "badLeast": 0
+    },
+    {
+      "graph": 10,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 11,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 12,
+      "minimum": 2,
+      "leastCircuits": 1,
+      "topStuckLeast": 1,
+      "badLeast": 0
+    },
+    {
+      "graph": 13,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    },
+    {
+      "graph": 14,
+      "minimum": 4,
+      "leastCircuits": 12,
+      "topStuckLeast": 6,
+      "badLeast": 0
+    }
+  ],
+  "witnesses": [],
+  "seconds": 0.131
+}

@@ -1,0 +1,50 @@
+{
+  "mode": "p8far",
+  "size": 11,
+  "honest": true,
+  "edges": [
+    [
+      1,
+      2
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "minCover": 4,
+  "starUpper": 12,
+  "exit": 0,
+  "signal": null,
+  "seconds": 421.194,
+  "verdict": "UNKNOWN",
+  "exhausted": false
+}

@@ -1,0 +1,54 @@
+{
+  "mode": "p8adj",
+  "size": 12,
+  "honest": true,
+  "edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "minCover": 4,
+  "starUpper": 13,
+  "exit": 0,
+  "signal": null,
+  "seconds": 362.064,
+  "verdict": "UNKNOWN",
+  "exhausted": false
+}

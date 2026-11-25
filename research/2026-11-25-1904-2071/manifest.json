@@ -1,0 +1,167 @@
+{
+  "prepared_utc": "2026-11-25T08:52:11.6706669Z",
+  "publication_target": "https://github.com/Harchy33/pequalnp-proofs/tree/research-notes-1904-2071/research/2026-11-25-1904-2071",
+  "upstream_submission": false,
+  "solved_tasks": [],
+  "tools": {
+    "node": "18.20.3",
+    "cadical": "2.1.2",
+    "lean": "4.36.0"
+  },
+  "defs_snapshot": "35f4cb7d2cbbe0cf88e7002b98c4e88515d01493",
+  "source_records": [
+    {
+      "file": "src/research-1904-sat.cjs",
+      "original_sha256": "36CFE4397FBC7B4155CEB2235235296A5B485CAA4AA590B36C47F9C4102F0E52",
+      "transformation": "Only solver executable path: CADICAL environment variable, otherwise cadical on PATH."
+    },
+    {
+      "file": "src/research-1904-pair.cjs",
+      "original_sha256": "43C6AB334E9A605884ED7347080EFCEC8D15A94103F7473396B0E18EFD106671",
+      "transformation": "Only solver executable path: CADICAL environment variable, otherwise cadical on PATH."
+    },
+    {
+      "file": "src/research-2071-stars.cjs",
+      "original_sha256": "ABAE48CCC0EBB6832F4224D8DCBC21D963E986DD06C29A59050AB2F18B9C098F",
+      "transformation": "Only solver executable path: CADICAL environment variable, otherwise cadical on PATH."
+    },
+    {
+      "file": "src/research-2071-boundary.cjs",
+      "original_sha256": "BE52984D72CDF6A586EBBF58DB983754218E94F01A8B3070FC4317AF6265CB9A",
+      "transformation": "Only solver executable path: CADICAL environment variable, otherwise cadical on PATH."
+    },
+    {
+      "file": "src/research-2071-local.cjs",
+      "original_sha256": "289D7AED74A4C3B7FAEF8EE03C1D02CC09AE2A712DB4BB12B1D3250BB759EF68",
+      "transformation": "none"
+    }
+  ],
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 14,
+      "sha256": "A79691A93B46E49CE460C26EF22AFCC03D6ECA1E63BF2EDBC20E96159510F6C9"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4555,
+      "sha256": "96101EEB0D222FFE2FA21450DF2196216150EE07980759872CBF315255124BCC"
+    },
+    {
+      "file": "lean/diagnostic-1904-p8adj.lean",
+      "bytes": 1976,
+      "sha256": "220A98E8AF056E23D1A9551283EF1EEE8740B18EFD90FF60D417B84E1ADF1A44"
+    },
+    {
+      "file": "lean/diagnostic-1904-p8far.lean",
+      "bytes": 1944,
+      "sha256": "C3EBDFDD4ABC300DFD0138309A8FBB00C1258714BEA7A0EFAB73AE7BA6BF47D0"
+    },
+    {
+      "file": "lean/diagnostic-2071.lean",
+      "bytes": 7390,
+      "sha256": "D29254D59E9F84DA1D8F9BA923005972412273FFBF2217A58EE8DA009A15778D"
+    },
+    {
+      "file": "results/research-1904-p8adj-12-clean-pair.json",
+      "bytes": 505,
+      "sha256": "2BD253047EE5A9A31A624D588B9CFBD69FBC52A015C51C0083DF28173F6B4F87"
+    },
+    {
+      "file": "results/research-1904-p8adj-12-clean.json",
+      "bytes": 505,
+      "sha256": "D36A85B788DE6F7F8F985B1A555994365C540186727681566B3E621343D91803"
+    },
+    {
+      "file": "results/research-1904-p8adj-12.json",
+      "bytes": 506,
+      "sha256": "08EAF664B846DDFFB484ED8C1860C65440DDBC86FB1FE0FA0D59A1CBB68B2631"
+    },
+    {
+      "file": "results/research-1904-p8adj-13-clean.json",
+      "bytes": 1348,
+      "sha256": "FE82B5A27B55F3AAD15C143C36BA27091D4D2754D7B27DAED43E2505C891C378"
+    },
+    {
+      "file": "results/research-1904-p8far-11-clean-pair.json",
+      "bytes": 475,
+      "sha256": "7CEDCF48828481510BBDBB7014D5676D939A270A6AF9DAA6D2CC8BFBB5E99253"
+    },
+    {
+      "file": "results/research-1904-p8far-11-clean.json",
+      "bytes": 475,
+      "sha256": "5CE0081720FBAEC3D47BCFF6C75DD5EDC493972B6B2AEBDD68FEE9F25F7E99C0"
+    },
+    {
+      "file": "results/research-1904-p8far-11.json",
+      "bytes": 476,
+      "sha256": "6CE87A80C4CF38C50B6B37F756AE01FF933511553250DE9F543EA932D20C004C"
+    },
+    {
+      "file": "results/research-1904-p8far-12-clean-pair.json",
+      "bytes": 475,
+      "sha256": "7B8CAAE7ED12D370A349FEC41F06CE5858FDC3B95E7656AE2FA587EC740CD6A2"
+    },
+    {
+      "file": "results/research-1904-p8far-12-clean.json",
+      "bytes": 1260,
+      "sha256": "EE45F26EA244FD27D5EDCB2B049F4EF822DC7E808147A094513E4AEAD5FDF41E"
+    },
+    {
+      "file": "results/research-2071-local-2x2.json",
+      "bytes": 2149,
+      "sha256": "8ABAD89D24A0713F58AA1B39A113AB649A1793DBB8CBDFC09D5A754B75C1CF63"
+    },
+    {
+      "file": "results/research-2071-local-2x3.json",
+      "bytes": 7007,
+      "sha256": "2893399B01181FBC3A8AB0D0DC8D8F5B64CABC33075BEDDEE4E713FA73F952C2"
+    },
+    {
+      "file": "results/research-2071-twoStars-9-boundary.json",
+      "bytes": 1147,
+      "sha256": "7F76FDD7412F53653624FC5984DA935D0BD2C56E51CF3CE5DBBD92218A69258F"
+    },
+    {
+      "file": "results/research-2071-twoStars-9-double-boundary.json",
+      "bytes": 480,
+      "sha256": "D610A6EB8AD625BA8D0EEE5C88F73E94B90E0B3207CC64FBA272412231F7359E"
+    },
+    {
+      "file": "results/research-2071-twoStars-9-double.json",
+      "bytes": 481,
+      "sha256": "E84E19FC625BC6B39644945066B5ADCCCC0607438C41016706FBE734767C21CB"
+    },
+    {
+      "file": "results/research-2071-twoStars-9.json",
+      "bytes": 1126,
+      "sha256": "F1CE21EDBBF68B9C2762D2B299982228FC7EA27CC3A1361AE252E7D1E2E9569E"
+    },
+    {
+      "file": "src/research-1904-pair.cjs",
+      "bytes": 7438,
+      "sha256": "5C337143FA1A7FD9B6A21DBA7E86748196986E1BE8E7048D7C9C7B00E6B8DFB0"
+    },
+    {
+      "file": "src/research-1904-sat.cjs",
+      "bytes": 7061,
+      "sha256": "F35FCE652A6DD9E6D65B66A8D1E959F34E0D01E6E9F5C33BE23E66FC05615057"
+    },
+    {
+      "file": "src/research-2071-boundary.cjs",
+      "bytes": 8964,
+      "sha256": "11E72D5F8648D6F550E9F65BDBDB03824B5FBA234EC76A78D643460E196869C8"
+    },
+    {
+      "file": "src/research-2071-local.cjs",
+      "bytes": 4185,
+      "sha256": "289D7AED74A4C3B7FAEF8EE03C1D02CC09AE2A712DB4BB12B1D3250BB759EF68"
+    },
+    {
+      "file": "src/research-2071-stars.cjs",
+      "bytes": 8214,
+      "sha256": "A6F94F06A990EEC9AD2743C69BCA2951E9B0A96F4A4606F9C4772619C45F15FC"
+    }
+  ],
+  "publication_text_format": "UTF-8 without BOM; LF line endings"
+}
